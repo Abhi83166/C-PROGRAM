@@ -1,0 +1,4 @@
+﻿  mainfile.c
+D:\WORK\C Programming\AMS\AMS\mainfile.c(214,24): warning C4047: '==': 'int' differs in levels of indirection from 'int *'
+D:\WORK\C Programming\AMS\AMS\mainfile.c(312,26): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+  AMS.vcxproj -> D:\WORK\C Programming\AMS\Debug\AMS.exe
