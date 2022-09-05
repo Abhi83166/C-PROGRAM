@@ -1,0 +1,3 @@
+﻿mainfile.obj : error LNK2019: unresolved external symbol _printf referenced in function _main
+mainfile.obj : error LNK2019: unresolved external symbol _welcome referenced in function _main
+D:\WORK\C Programming\Vaccine inventory mangement system\Vaccine_inventory_management_system\Debug\Vaccine_inventory_management_system.exe : fatal error LNK1120: 2 unresolved externals
